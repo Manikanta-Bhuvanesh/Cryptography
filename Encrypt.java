@@ -422,7 +422,7 @@ Code = Code + matrix_arr[part1[0]][part1[1]]
 return Code;
 }
 }
-public class encrypt {
+public class Encrypt {
 public static void main(String[] args)
 {
 char choice;
